@@ -29,3 +29,8 @@ To empower small, local merchants with enterprise-grade cash flow velocity, clos
 To compile the contract into a WebAssembly (.wasm) file:
 ```bash
 stellar contract build
+
+https://stellar.expert/explorer/testnet/tx/2366b12990bceb58126e74172ee0720e92a26611692755b6008ac0264d357057
+https://lab.stellar.org/r/testnet/contract/CDSWVN6OQQI563EVAIFZRF2T5QEZPP6QRGIODFOVON3BGHVISJJYCNEH
+
+CDSWVN6OQQI563EVAIFZRF2T5QEZPP6QRGIODFOVON3BGHVISJJYCNEH
